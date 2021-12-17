@@ -1,3 +1,3 @@
 # windows priv esc [good stuff]
 
-connect with remmina
+watch this vid https://youtu.be/zIR7Is90N30
