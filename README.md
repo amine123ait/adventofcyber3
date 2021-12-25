@@ -40,28 +40,28 @@
 ```
 
 
-[day1](./day1.md)
-[day2](./day2.md)
-[day3](./day3.md)
-[day4](./day4.md)
-[day5](./day5.md)
-[day6](./day6.md)
-[day7](./day7.md)
-[day8](./day8.md)
-[day9](./day9.md)
-[day10](./day10.md)
-[day11](./day11.md)
-[day12](./day12.md)
-[day13](./day13.md)
-[day14](./day14.md)
-[day15](./day15.md)
-[day16](./day16.md)
-[day17](./day17.md)
-[day18](./day18.md)
-[day19](./day19.md)
-[day20](./day20.md)
-[day21](./day21.md)
-[day22](./day22.md)
-[day23](./day23.md)
+[day1](./day1.md)<br>
+[day2](./day2.md)<br>
+[day3](./day3.md)<br>
+[day4](./day4.md)<br>
+[day5](./day5.md)<br>
+[day6](./day6.md)<br>
+[day7](./day7.md)<br>
+[day8](./day8.md)<br>
+[day9](./day9.md)<br>
+[day10](./day10.md)<br>
+[day11](./day11.md)<br>
+[day12](./day12.md)<br>
+[day13](./day13.md)<br>
+[day14](./day14.md)<br>
+[day15](./day15.md)<br>
+[day16](./day16.md)<br>
+[day17](./day17.md)<br>
+[day18](./day18.md)<br>
+[day19](./day19.md)<br>
+[day20](./day20.md)<br>
+[day21](./day21.md)<br>
+[day22](./day22.md)<br>
+[day23](./day23.md)<br>
 
 <img src='completed.png'>
