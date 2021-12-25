@@ -39,6 +39,7 @@
 
 ```
 
+## Tasks 
 
 [Day1 of advent of cyber 3](./day1.md)<br>
 [Day2 of advent of cyber 3](./day2.md)<br>
@@ -63,5 +64,8 @@
 [Day21 of advent of cyber 3](./day21.md)<br>
 [Day22 of advent of cyber 3](./day22.md)<br>
 [Day23 of advent of cyber 3](./day23.md)<br>
+
+
+## Badge :)
 
 <img src='completed.png'>
