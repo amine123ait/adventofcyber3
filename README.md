@@ -39,8 +39,8 @@
 
 ```
 
-<p src='./day1.md'>
-1
+
+<a onclick='./day1.md'>Day1</a>
 2
 3
 4
