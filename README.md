@@ -40,7 +40,7 @@
 ```
 
 
-<a onclick='./day1.md'>Day1</a>
+[Day1](./day1.md)
 2
 3
 4
